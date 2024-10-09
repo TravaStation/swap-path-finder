@@ -6,7 +6,7 @@ import "./interfaces/IPancakeFactory.sol";
 import "./interfaces/IPancakeRouter02.sol";
 
 
-contract PancakeSwapPathFinderUpgradeable is OwnableUpgradeable {
+contract PancakePathFinderUpgradeable is OwnableUpgradeable {
     address public factory;
     address public WETH;
 

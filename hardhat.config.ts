@@ -175,7 +175,7 @@ const config: HardhatUserConfig = {
       ],
     },
     bscMainnet: {
-      url: "https://bsc.publicnode.com",
+      url: "https://nd-548-567-990.p2pify.com/cbbfddee2b688acec746b6d0b4fdac3c",
       chainId: 56,
       gasPrice: 11e8,
       gas: 2e6,
